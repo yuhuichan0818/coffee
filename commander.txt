@@ -1,0 +1,28 @@
+rm
+rmdir
+mkdir
+
+ls
+: file list in folder
+
+cd
+: enter (where you want)
+
+touch
+: create file
+
+git init
+: initializing master - main timeline
+
+git add .
+git commit -m "start"
+: save current file
+
+git reset --hard
+: back to last timeline
+
+git branch A
+: create timeline - means "branch"
+
+git checkout A
+: switch timeline
